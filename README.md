@@ -31,7 +31,7 @@ Para compilar y ejecutar el simulador, simplemente utiliza el archivo por lotes 
 
 ## Créditos
 
-* **Autor:** Jose Manuel Garcia Vega, Juan Antonio Casanova Torres, Victor Jhonatan Montoya Luna
+* **Autor:** Jose Manuel Garcia Vega, Juan Antonio Casanova Torres, Victor Jonathan Montoya Luna
 * **Universidad:** Universidad Autónoma de Tamaulipas (UAT)
 * **Semestre:** 6.-M
 * **Materia:** Sistemas Operativos
